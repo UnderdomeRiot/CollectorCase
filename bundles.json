@@ -1,0 +1,12 @@
+{
+    "manifest": [
+        {
+            "key": "CollectorCase/case.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "shaders",
+                "cubemaps"
+            ]
+        }
+    ]
+}
